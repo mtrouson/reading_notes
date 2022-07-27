@@ -1,2 +1,2 @@
-# reading_notes_02-
+# reading_notes
 Collection of reading notes from Code Fellows Cyber Ops. 

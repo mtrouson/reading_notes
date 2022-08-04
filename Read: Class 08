@@ -1,0 +1,30 @@
+
+The use of the “Registry” has become more efficient  in its use than where it started with Windows 3.1.  The Window Registry stores the configuration settings for users system wide, specific to the users features and permissions. There’s also “Registry Hacks” that allows users the ability to enable hidden settings and features to their user account. 
+
+
+
+Reading Notes
+
+
+*the system-wide registry settings are stored in files under C:\Windows\System32\Config\
+(https://www.howtogeek.com/370022/windows-registry-demystified-what-you-can-do-with-it/)
+
+*while each Windows user account has its own NTUSER.dat file containing its user-specific keys in its C:\Windows\Users\Name directory. You can’t edit these files directly.
+(https://www.howtogeek.com/370022/windows-registry-demystified-what-you-can-do-with-it/)
+
+* when you launch a program, it can check the registry stored in memory to find its configuration settings.
+(https://www.howtogeek.com/370022/windows-registry-demystified-what-you-can-do-with-it/)
+
+
+*Microsoft introduced the registry back in Windows 3.1, but it was initially used only for certain types of software. In the Windows 3.1 era, 
+(https://www.howtogeek.com/370022/windows-registry-demystified-what-you-can-do-with-it/)
+
+
+*registry brings together the settings that would otherwise be scattered in many different locations across the disk
+(https://www.howtogeek.com/370022/windows-registry-demystified-what-you-can-do-with-it/)
+
+
+
+## Things I want to know more about:
+
+The Windows registry is a collection of several databases.

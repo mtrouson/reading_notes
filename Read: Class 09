@@ -1,0 +1,17 @@
+The main source of communication  in a corporate setting is email, an electronic message. It’s important to understand what emails are and how they work. These electronic messages hold very important importation, and serve as a popular means of launching major attack vectors for scammers, phishing and ransomware. Although emails are very useful in professional settings, the way email bypass firewalls is also attractive to criminals too, one less obstacle they have to overcome. Companies have adopted the use of email clients to help reduce email vulnerabilities via email.  
+
+Email 
+-method of exchanging messages between persons via electronic devices.
+-delivery of email utilizes a client-server architecture
+-service provider act as the server
+-software end user acts as the client, hence the term “mail client”
+-SaaS is an acronym for a type of cloud service offering category
+
+Email Protocols:
+
+-Webmail: an email service accessible via web browser.
+
+-POP3 (Post Office Protocol) inbound configuration that will deliver messages to your client then delete of the naik server
+-IMAP (Internet Message Access Protocol) newer than POP3, inbound configuration that will allow you to manage a mailbox from multiple devices and synchronize with the mail server
+-MAPI Used by Microsoft Exchange Servers
+-SMTP (Simple Mail Transfer Protocol) Outbound configuration that lets email client to send emails. 

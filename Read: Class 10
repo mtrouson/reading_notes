@@ -1,0 +1,21 @@
+Michael Rouson
+Date: 08/05/22
+
+Unbeknownst to me I would experience Veeam’s customer service in my attempt to get the software downloaded in my VM. I was in REMO with Ethan (TA), as he walked through the solution to the issue I was having while downloading “Veeam”. I had maxed out my VM’s memory by having multiple VM from previous exercises still installed on the Virtual Box. As we are going through making adjustments to setting and downloading files, my phone rings and it’s tech support from Veeam, calling to assist with the installation of the software. I’m assuming they could see my failed attempt. Which leads me into the article from the Class 10: Reading Note assignment. 
+
+It is critical for companies to backup their computer systems data, and being able to access that information and keeping it secure has been more important now than ever, with the growing trend of remote and telework. Veema’s business model is centered around “backing up virtual machines in VMware and Hyper-V environments.”(2013, Rick Vanover). 
+
+
+“VeeamZIP – Creates an ad-hoc backup of a running VM, which gives you many benefits such as being able to easily copy a backup to another host without having to power off the original VM
+Powerful and flexible restores – Supports a number of recovery scenarios, including recovery of an entire VM, guest OS files and individual application items
+
+Quick Migration (VMware) – Migrates a live VM between hosts or datastores with minimal downtime and without requiring clusters, shared storage, or even VMware vMotion or Storage 
+vMotion
+
+VeeamZIP is helpful when:
+ 
+You need to update a VM. Users frequently take a VeeamZIP backup before making any changes to a VM, such as before applying updates or patches.
+
+You need to archive a VM. It’s simple to create a deduplicated and compressed copy of a VM before removing it from your virtual infrastructure.
+
+You need to copy a VM to a remote host or test lab. VeeamZIP encapsulates VM configuration settings so you can easily transfer and run a VM in a different location.”(2013, Rick Vanover)

@@ -1,0 +1,19 @@
+In any instance where cost saving exists, without having to sacrifice performance or features, which seems to be the case with pfSense is a. “pfSense is a free, customized distribution of FreeBSD that can turn an old computer into a full featured router and firewall.”(2021 Sam Kear). “pfSense is very flexible and can easily be adapted to numerous applications ranging from a home router to a firewall for a large corporate network. pfSense is easy to install and maintain offering a very useful web based user interface. pfSense includes many features that are often only found in expensive commercial routers.”(2021 Sam Kear)
+
+Popular Uses for pfSense
+
+LAN/WAN Router
+Internet Cafes
+Wireless Hotspot (Captive Portal)
+VPN Router
+Firewall
+DHCP / DNS Server
+Wireless Access Point
+Transparent Squid Proxy Server
+Multi Wan Router or Load Balancer
+DNS Blacklist
+Port Forwarding / NAT (Network Address Translation)
+
+“pfSense can also be installed on several different embedded platforms such as PC-Engines, Soekris, Alix, and others.
+
+In order to set up your own pfSense router, you'll need an old computer with at least two network cards installed.” (2021 Sam Kear) 
